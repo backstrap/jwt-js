@@ -1,0 +1,22 @@
+{
+  "name": "jwt-js",
+  "version": "1.0.0",
+  "description": "jwt-js - JSON Web Tokens implemented in pure JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backstrap/jwt-js.git"
+  },
+  "author": "",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/backstrap/jwt-js/issues"
+  },
+  "homepage": "https://github.com/backstrap/jwt-js#readme"
+}
