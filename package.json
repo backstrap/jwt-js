@@ -1,12 +1,13 @@
 {
   "name": "jwt-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jwt-js - JSON Web Tokens implemented in pure JavaScript",
-  "main": "index.js",
+  "main": "build/jwt.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
+    "install": "make",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

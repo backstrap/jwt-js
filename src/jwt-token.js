@@ -242,3 +242,7 @@ var JWTInternals = (function() {
   jwt.base64urlencode = base64urlencode;
   jwt.base64urldecode = base64urldecode;
 })();
+
+if (module && typeof module === 'object') {
+    module.exports = jwt;
+}
