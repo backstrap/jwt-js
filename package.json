@@ -1,13 +1,13 @@
 {
   "name": "@backstrap/jwt-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jwt-js - JSON Web Tokens implemented in pure JavaScript",
   "main": "build/jwt.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "install": "make",
+    "install": "make --quiet",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
